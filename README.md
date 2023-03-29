@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Ciao a tutti! Sono Andrea Gulisano, un appassionato di tecnologia che lavora presso PrettyNeat.
 
 <!--
-**andreaguli14/andreaguli14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Ciao a tutti! Sono Andrea Gulisano, un appassionato di tecnologia che lavora presso PrettyNeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 Attualmente, mi occupo di progettare e sviluppare soluzioni software innovative per migliorare la produttività e semplificare le operazioni quotidiane.
+
+- 👨‍💻 Ho una forte conoscenza di linguaggi di programmazione come C# , Python 🐍, e JavaScript 🌐, e mi piace stare al passo con le ultime tendenze tecnologiche.
+- 
+🚀 Sono sempre alla ricerca di nuove sfide e opportunità di apprendimento, che mi permettono di crescere professionalmente e migliorare le mie capacità tecniche.
+
+- 🙏 Grazie per aver visitato il mio profilo, se avete domande o volete collaborare su qualche progetto, non esitate a contattarmi!
+
 -->
+
+
