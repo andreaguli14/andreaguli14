@@ -1,6 +1,6 @@
 ### 👋 Ciao a tutti! Sono Andrea Gulisano, un appassionato di tecnologia che lavora presso PrettyNeat.
 
-<!--
+
 
 - 👋 Ciao a tutti! Sono Andrea Gulisano, un appassionato di tecnologia che lavora presso PrettyNeat.
 
@@ -12,6 +12,6 @@
 
 - 🙏 Grazie per aver visitato il mio profilo, se avete domande o volete collaborare su qualche progetto, non esitate a contattarmi!
 
--->
+
 
 
