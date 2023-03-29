@@ -1,4 +1,4 @@
-### 👋 Ciao a tutti! Sono Andrea Gulisano, un appassionato di tecnologia che lavora presso PrettyNeat.
+### 👋 Ciao a tutti! Sono Andrea Gulisano per gli amici solo Guli, un appassionato di tecnologia che lavora presso PrettyNeat.
 
 
 - 💼 Attualmente, mi occupo di progettare e sviluppare soluzioni software innovative per migliorare la produttività e semplificare le operazioni quotidiane.
