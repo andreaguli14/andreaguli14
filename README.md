@@ -1,5 +1,7 @@
 # 💫 About Me:
 👋 Hello everyone! I'm Andrea Gulisano for friends only Guli, a technology enthusiast who works at PrettyNeat.
+<br>
+<br>
 <br>💼 Currently, I am involved in designing and developing innovative software solutions to improve productivity and simplify daily operations.
 <br>👨‍💻 I have strong knowledge of programming languages like C# , Python 🐍, and JavaScript 🌐, and I like to keep up with the latest technology trends.
 <br>🚀 I am always looking for new challenges and learning opportunities, which allow me to grow professionally and improve my technical skills.
