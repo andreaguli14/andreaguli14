@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hello everyone! I'm Andrea Gulisano for friends only Guli, a technology enthusiast who works at PrettyNeat.
+👋 Hello everyone! I'm Andrea Gulisano for friends only Guli, a technology enthusiast who works at Digitouch.
 <br>
-<br>💼 Currently, I am involved in designing and developing innovative software solutions to improve productivity and simplify daily operations.
-<br>👨‍💻 I have strong knowledge of programming languages like C#, and JavaScript 🌐, and I like to keep up with the latest technology trends.
+<br>💼 Currently, I am involved in  developing innovative software solutions to improve productivity and simplify daily operations.
+<br>👨‍💻 I have strong knowledge of programming languages like C#,.Net ,and JavaScript 🌐, and I like to keep up with the latest technology trends.
 <br>🚀 I am always looking for new challenges and learning opportunities, which allow me to grow professionally and improve my technical skills.
 <br>🙏 Thank you for visiting my profile, if you have any questions or want to collaborate on any project, do not hesitate to contact me!
 
