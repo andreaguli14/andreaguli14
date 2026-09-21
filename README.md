@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone! I'm Andrea Gulisano for friends only Guli, a technology enthusiast who works at Digitouch.
+👋 Hello everyone! I'm Andrea Gulisano for friends only Guli, a technology enthusiast who works at Hidonix.
 <br>
 <br>💼 Currently, I am involved in  developing innovative software solutions to improve productivity and simplify daily operations.
 <br>👨‍💻 I have strong knowledge of programming languages like C#,.Net ,and JavaScript 🌐, and I like to keep up with the latest technology trends.
